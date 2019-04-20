@@ -1,4 +1,4 @@
-#Var init
+#Var INIT
 even_sum = 0
 curr = 2
 prev = 1
@@ -12,3 +12,4 @@ while curr < 4000000:
     curr += temp
 
 print even_sum
+#SOJSOJSOJS
